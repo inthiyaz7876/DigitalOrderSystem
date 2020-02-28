@@ -1,0 +1,57 @@
+{
+  "posts": [
+    {
+      "name": "Biryani",
+      "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2019/02/hyderabadi-biryani-recipe-500x375.jpg",
+      "price": "210",
+      "id": 2,
+      "itemType": "Biryani"
+    },
+    {
+      "name": "Parota",
+      "image": "https://www.watscooking.com/images/dish/large/images_(17)5.jpg",
+      "price": "40",
+      "id": 3,
+      "itemType": "Roti"
+    },
+    {
+      "name": "Mutton Biryani",
+      "image": "https://www.whiskaffair.com/wp-content/uploads/2018/02/Hyderabadi-Mutton-Biryani-6.jpg",
+      "price": "240",
+      "id": 4,
+      "itemType": "Biryani"
+    },
+    {
+      "name": "Butternon",
+      "image": "https://www.telugufoodrecipes.com/resources/picture/org/butter-non.jpg",
+      "price": "40",
+      "id": 5,
+      "itemType": "Roti"
+    },
+    {
+      "name": "Chicken Curry",
+      "image": "https://i.ytimg.com/vi/yRROlR1CD1s/maxresdefault.jpg",
+      "price": "150",
+      "id": 6,
+      "itemType": "Curries"
+    },
+    {
+      "name": "Chicken Curry",
+      "image": "https://i.ytimg.com/vi/yRROlR1CD1s/maxresdefault.jpg",
+      "price": "150",
+      "id": 7,
+      "itemType": "Curries"
+    },
+    {
+      "name": "Chicken Curry",
+      "image": "https://i.ytimg.com/vi/yRROlR1CD1s/maxresdefault.jpg",
+      "price": "150",
+      "id": 8,
+      "itemType": "Curries"
+    }
+  ],
+  "itemType": ["Starter", "Biryanies", "Combos", "Drinks", "Curries", "Roti", "Rice"],
+  "profile": {
+    "name": "typicode"
+  }
+}
